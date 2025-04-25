@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>nso_0453_14040</filename>
+  <object>
+    <name>date</name>
+    <bndbox>
+      <xmin>733</xmin>
+      <ymin>171</ymin>
+      <xmax>757</xmax>
+      <ymax>291</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hour</name>
+    <bndbox>
+      <xmin>738</xmin>
+      <ymin>297</ymin>
+      <xmax>775</xmax>
+      <ymax>347</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>minute</name>
+    <bndbox>
+      <xmin>733</xmin>
+      <ymin>360</ymin>
+      <xmax>773</xmax>
+      <ymax>434</ymax>
+    </bndbox>
+  </object>
+</annotation>

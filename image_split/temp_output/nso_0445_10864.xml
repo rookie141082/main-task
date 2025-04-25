@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>nso_0445_10864</filename>
+  <object>
+    <name>hour</name>
+    <bndbox>
+      <xmin>87</xmin>
+      <ymin>359</ymin>
+      <xmax>130</xmax>
+      <ymax>422</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>minute</name>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin>221</ymin>
+      <xmax>131</xmax>
+      <ymax>346</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>seconds</name>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>115</ymin>
+      <xmax>130</xmax>
+      <ymax>186</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>nso_8111_02261</filename>
+  <object>
+    <name>rell_number</name>
+    <bndbox>
+      <xmin>608</xmin>
+      <ymin>202</ymin>
+      <xmax>641</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hour</name>
+    <bndbox>
+      <xmin>584</xmin>
+      <ymin>343</ymin>
+      <xmax>642</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>minute</name>
+    <bndbox>
+      <xmin>578</xmin>
+      <ymin>407</ymin>
+      <xmax>636</xmax>
+      <ymax>471</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>seconds</name>
+    <bndbox>
+      <xmin>577</xmin>
+      <ymin>487</ymin>
+      <xmax>633</xmax>
+      <ymax>514</ymax>
+    </bndbox>
+  </object>
+</annotation>

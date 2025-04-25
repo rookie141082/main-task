@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+  <filename>nso_0262_21821</filename>
+  <object>
+    <name>filter</name>
+    <bndbox>
+      <xmin>718</xmin>
+      <ymin>88</ymin>
+      <xmax>756</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rell_number</name>
+    <bndbox>
+      <xmin>745</xmin>
+      <ymin>212</ymin>
+      <xmax>771</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>date</name>
+    <bndbox>
+      <xmin>712</xmin>
+      <ymin>204</ymin>
+      <xmax>738</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>minute</name>
+    <bndbox>
+      <xmin>716</xmin>
+      <ymin>334</ymin>
+      <xmax>763</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>
