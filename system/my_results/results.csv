@@ -1,0 +1,11 @@
+filename,minute,date,hour,rell_number,filter,seconds
+nso_0223_00000.fts.gz,,,,,,
+nso_0223_00001.fts.gz,58,09 Feb 75,15,FL740,,
+nso_0223_00002.fts.gz,58,08 Feb 75,15,FL740,Unrecognized,20
+nso_0223_00003.fts.gz,58,08 Feb 73,15,FL7437,Unrecognized,20
+nso_0223_00004.fts.gz,58,08 Feb 75,15,FL747,Unrecognized,20
+nso_0223_00005.fts.gz,58,08 Feb 75,15,FL740,,20
+nso_0223_00006.fts.gz,358,05 Feb 75,14,FL7467,Unrecognized,10
+nso_0223_00007.fts.gz,359,08 Feb 73,14,FL746,,10
+nso_0223_00008.fts.gz,47,08 Sep 73,14,FL746,Unrecognized,10
+nso_0223_00009.fts.gz,50,09 Sep 73,1,FL746,,
